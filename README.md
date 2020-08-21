@@ -13,6 +13,9 @@ Here is a link to our Word Document and a Power Point Presentation.
 ## Members
 
 <p align="center">Sabeer Ranjan<p>
+ 
+<img align="center" href="C:\Users\user\Downloads\IMG_0414.jpg"
+ 
 <p align="center">Arnav Mittal
 <p>
  
