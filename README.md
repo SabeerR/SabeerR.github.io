@@ -10,7 +10,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg
+```
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
