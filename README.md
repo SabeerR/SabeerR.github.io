@@ -3,7 +3,7 @@
 This is the website we have created to supplement our Vasudha Project.
 Here is a link to our Word Document
 
-https://docs.google.com/file/d/1Nu4bOvSgZvhiug3O1kgtYygH8QI_pfSe/edit?usp=docslist_api&filetype=msword
+[Vasudha 2020-2021](https://docs.google.com/file/d/1Nu4bOvSgZvhiug3O1kgtYygH8QI_pfSe/edit?usp=docslist_api&filetype=msword)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
