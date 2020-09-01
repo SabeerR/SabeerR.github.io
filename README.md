@@ -17,7 +17,7 @@ Here is a link to our Word Document and a Power Point Presentation.
 <p align="center">Arnav Mittal
 <p>
  
-![hits](https://komarev.com/ghpvc/?username=SabeerR&color=green&label=Visitor+Counter&style=flat-square)
+[](https://komarev.com/ghpvc/?username=SabeerR&color=green&label=Visitor+Counter&style=flat-square)
 
 ## Support or Contact
  
