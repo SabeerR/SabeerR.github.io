@@ -14,10 +14,9 @@ Here is a link to our Word Document and a Power Point Presentation.
 
 <p align="center">Sabeer Ranjan<p>
  
-<p align="center">Arnav Mittal
+<p align="center">Arnav Mittal>
 <p>
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsabeerr.github.io&count_bg=%233496C4&title_bg=%23D12020&title=Visitor+Counter&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://komarev.com/ghpvc/?username=SabeerR&color=green&label=Visitor+Counter)
 ## Support or Contact
  
