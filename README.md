@@ -14,10 +14,10 @@ Here is a link to our Word Document and a Power Point Presentation.
 
 <p align="center">Sabeer Ranjan<p>
  
-<p align="center">Arnav Mittal>
+<p align="center">Arnav Mittal
 <p>
  
-![](https://komarev.com/ghpvc/?username=SabeerR&color=green&label=Visitor+Counter)
+![](https://komarev.com/ghpvc/?username=SabeerR&color=red&label=Visitor+Counter)
 ## Support or Contact
  
  Have any questions? 
