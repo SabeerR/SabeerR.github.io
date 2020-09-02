@@ -12,7 +12,6 @@ Here is a link to our Word Document and a Power Point Presentation.
 
 ## Members
 <p align="center">Sabeer Ranjan
-
 Arnav Mittal
 </P>
 <!-- Start of WebFreeCounter Code -->
