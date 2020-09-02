@@ -13,7 +13,7 @@ Here is a link to our Word Document and a Power Point Presentation.
 ## Members
 
 <!-- Start of WebFreeCounter Code -->
-<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gfakad&nd=6&style=9" border="0" alt="web counter"></a>
+<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gvfakax&nd=5&style=3" border="0" alt="web counter"></a>
 <!-- End of WebFreeCounter Code -->
 
 ## Support or Contact
