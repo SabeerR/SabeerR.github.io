@@ -25,4 +25,4 @@ Here is a link to our Word Document and a Power Point Presentation.
  
  Have any questions? 
  
- Email us your questions on arnav069@gmail.com or mailskg2@gmail.com
+ Email us your questions on [arnav069@gmail.com](arnav069@gmail.com) or [mailskg2@gmail.com](mailskg2@gmail.com)
