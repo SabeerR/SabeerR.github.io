@@ -11,11 +11,6 @@ Here is a link to our Word Document and a Power Point Presentation.
 ## Main Focus: *Ayurveda*
 
 ## Members
-
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7660688&style=0024&nbdigits=5&type=page&initCount=34" title="Total Website Hits" Alt="Web Hits"   border="0" /></a>    
-
 ## Support or Contact
  
  Have any questions? 
