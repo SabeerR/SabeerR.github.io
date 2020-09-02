@@ -14,7 +14,9 @@ Here is a link to our Word Document and a Power Point Presentation.
 
 <p align="center">
  
- **Visitor Counter**<!-- Start of WebFreeCounter Code -->
+ **Visitor Counter**
+ 
+ <!-- Start of WebFreeCounter Code -->
 <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gvfakax&nd=5&style=3" border="0" alt="web counter"></a>
 <!-- End of WebFreeCounter Code -->
  </p>
