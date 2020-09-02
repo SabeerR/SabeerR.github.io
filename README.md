@@ -12,9 +12,11 @@ Here is a link to our Word Document and a Power Point Presentation.
 
 ## Members
 
-<center> <!-- Start of WebFreeCounter Code -->
+<p align="center">
+ <!-- Start of WebFreeCounter Code -->
 <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gvfakax&nd=5&style=3" border="0" alt="web counter"></a>
-<!-- End of WebFreeCounter Code --> </center>
+<!-- End of WebFreeCounter Code -->
+ </p>
 
 ## Support or Contact
  
