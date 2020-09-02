@@ -11,7 +11,7 @@ Here is a link to our Word Document and a Power Point Presentation.
 ## Main Focus: *Ayurveda*
 
 ## Members
-<p align="center">Sabeer Ranjan
+<p align="center">Sabeer Ranjan<br>
 Arnav Mittal
 </P>
 <!-- Start of WebFreeCounter Code -->
