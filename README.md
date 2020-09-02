@@ -12,7 +12,7 @@ Here is a link to our Word Document and a Power Point Presentation.
 
 ## Members
 
-<p align="center">
+<p align="center">###Visitor Counter####
  <!-- Start of WebFreeCounter Code -->
 <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gvfakax&nd=5&style=3" border="0" alt="web counter"></a>
 <!-- End of WebFreeCounter Code -->
@@ -23,4 +23,3 @@ Here is a link to our Word Document and a Power Point Presentation.
  Have any questions? 
  
  Email us your questions on arnav069@gmail.com or mailskg2@gmail.com
- 
