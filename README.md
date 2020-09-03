@@ -8,7 +8,7 @@ Here is a link to our Word Document and a Power Point Presentation.
 
 [CoronaVirus](https://drive.google.com/file/d/18FGk2f3JbWM8_CqvvECNQkRfA_1WwkHj/view?usp=sharing)
 
-## Main Focus: *Ayurveda*
+## Main Focus: *Ayurveda and Home Remedies*
 
 ## Members
 <p align="center">Sabeer Ranjan<br>
