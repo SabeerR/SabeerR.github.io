@@ -2,7 +2,7 @@
 
 This is the website we have created to supplement our Vasudha Project.
 
-Here is a link to our Word Document and a Power Point Presentation.
+Here is a link to our Word Document and our PowerPoint Presentation.
 
 [Vasudha 2020-2021](https://docs.google.com/file/d/1Nu4bOvSgZvhiug3O1kgtYygH8QI_pfSe/edit?usp=docslist_api&filetype=msword)
 
