@@ -10,6 +10,8 @@ Here is a link to our Word Document and our PowerPoint Presentation.
 
 ## Main Focus: *Ayurveda and Home Remedies*
 
+Ayurveda is an alternative medicine system with historical roots in the Indian subcontinent.
+
 ## Members
 <p align="center">Sabeer Ranjan<br>
 Arnav Mittal
