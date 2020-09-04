@@ -13,7 +13,7 @@ Here is a link to our Word Document and our PowerPoint Presentation.
 Ayurveda is an alternative medicine system with historical roots in the Indian subcontinent.Ayurveda is considered by many scholars to be the oldest healing science. In Sanskrit, Ayurveda means “The Science of Life.” Ayurvedic knowledge originated in India more than 5,000 years ago and is often called the “Mother of All Healing.” It stems from the ancient Vedic culture and was taught for many thousands of years in an oral tradition from accomplished masters to their disciples. A Home remedy is defined as a simply prepared medication or tonic often of unproven effectiveness administered without prescription or professional supervision. Home remedies may or may not have medicinal properties that treat or cure the disease or ailment in question. Every civilization defines, views and applies its home remedies differently. Historic cookbooks are frequently full of remedies for dyspepsia, fevers, and female complaints. Home remedies may or may not have medicinal properties that treat or cure the disease or ailment in question, as they are typically passed along by laypersons
 
 ## Members
-<p align="center">Sabeer Ranjan<br><img src="C:\Users\user\Downloads\iCloud Photos.zip\iCloud Photos\IMG_0619.JPEG">
+<p align="center">Sabeer Ranjan<br><img class="n" src="img/naitik.png" alt="photo">
 Arnav Mittal
 </P>
 
