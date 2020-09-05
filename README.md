@@ -18,7 +18,6 @@ Ayurveda is an alternative medicine system with historical roots in the Indian s
 ![](images/IMG_0619.png)
 
 **Arnav Mittal**
-</P>
 
 ## Support or Contact
  
