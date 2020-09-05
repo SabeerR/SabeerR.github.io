@@ -14,7 +14,9 @@ Ayurveda is an alternative medicine system with historical roots in the Indian s
 
 ## Members
 <p align="center">Sabeer Ranjan<br>
+ 
 ![](images/IMG_0619.png)
+
 Arnav Mittal
 </P>
 
