@@ -17,9 +17,11 @@ Ayurveda is an alternative medicine system with historical roots in the Indian s
 
 **Class-7J**<br>
  
-![](images/IMG_0619.png)
+![](images/)
 
 **Arnav Mittal**
+
+![](images/IMG_0169.png)
 
 **Class-7J (leader)**
 
