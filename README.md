@@ -1,6 +1,6 @@
 ## **Welcome to Vasudha 2020**
 
-<h1>This is the website we have created to supplement our Vasudha Project.
+This is the website we have created to supplement our Vasudha Project.
 
 Here is a link to our Word Document and our PowerPoint Presentation.
 
